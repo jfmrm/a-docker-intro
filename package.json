@@ -1,0 +1,22 @@
+{
+  "name": "a-docker-intro",
+  "version": "1.0.0",
+  "description": "Uma breve introdução a Docker - Como fazer um Dockerfile, como fazer um docker-compose e rodar um ambiente de desenvolvimento na sua máquina",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfmrm/a-docker-intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jfmrm/a-docker-intro/issues"
+  },
+  "homepage": "https://github.com/jfmrm/a-docker-intro#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
