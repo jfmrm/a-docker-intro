@@ -4,7 +4,8 @@
   "description": "Uma breve introdução a Docker - Como fazer um Dockerfile, como fazer um docker-compose e rodar um ambiente de desenvolvimento na sua máquina",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
